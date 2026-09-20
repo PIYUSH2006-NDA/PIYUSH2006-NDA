@@ -277,15 +277,23 @@ alt="Repositories Per Language"
 
 <div align="center">
 
-<a href="https://github.com/piyush2006-nda">
+### 🚧 Contribution activity graph
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=piyush2006-nda&theme=tokyo-night&hide_border=true&area=true&radius=8"
-width="95%"
-alt="Piyush GitHub Contribution Activity"
-/>
+<p>
+  <img
+    src="https://img.shields.io/badge/Contribution%20Graph-Temporarily%20Unavailable-555555?style=for-the-badge"
+    alt="Contribution Graph"
+  />
+</p>
 
-</a>
+<p>
+  <a href="https://github.com/piyush2006-nda">
+    <img
+      src="https://img.shields.io/badge/View%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub Contributions"
+    />
+  </a>
+</p>
 
 </div>
 
