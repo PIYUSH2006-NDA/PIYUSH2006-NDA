@@ -26,19 +26,19 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Artificial Intelligence & Machine Learning Student
+🎓 **B.Tech Artificial Intelligence & Machine Learning Student**
 
-💻 Full-Stack Developer
+💻 **Full-Stack Developer**
 
-🤖 AI/ML & Generative AI Enthusiast
+🤖 **AI/ML & Generative AI Enthusiast**
 
-🧠 DSA & Problem Solving Learner
+🧠 **DSA & Problem Solving Learner**
 
-🚀 Hackathon Project Builder
+🚀 **Hackathon Project Builder**
 
-🇮🇳 India
+🇮🇳 **India**
 
 - 🔭 Currently working on **AgriFlow — Smart Agricultural Supply Chain Platform**
 - 🌱 Currently learning **Machine Learning, Generative AI, Advanced DSA, React, Node.js & Cloud Technologies**
@@ -92,7 +92,7 @@
 
 </p>
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
 <p align="center">
 
@@ -100,7 +100,7 @@
 
 </p>
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 
 <p align="center">
 
@@ -126,7 +126,7 @@
 
 </p>
 
-## 🗄️ Database
+## 🗄️ Databases
 
 <p align="center">
 
@@ -255,118 +255,134 @@ A platform focused on marine data exploration and intelligent insights.
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=piyush2006-nda&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
-height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyush2006-nda&theme=tokyonight"
+width="48%"
 alt="GitHub Statistics"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2006-nda&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-height="180"
-alt="Top Languages"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyush2006-nda&theme=tokyonight"
+width="48%"
+alt="Repositories Per Language"
 />
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
+
+<a href="https://github.com/piyush2006-nda">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=piyush2006-nda&theme=tokyo-night&hide_border=true&area=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=piyush2006-nda&theme=tokyo-night&hide_border=true&area=true&radius=8"
 width="95%"
-alt="Contribution Activity"
+alt="Piyush GitHub Contribution Activity"
 />
 
-</p>
+</a>
+
+</div>
 
 ---
 
 # 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
 <img
 src="https://streak-stats.demolab.com/?user=piyush2006-nda&theme=tokyonight&hide_border=true"
 width="90%"
-alt="Contribution Streak"
+alt="Piyush GitHub Contribution Streak"
 />
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
+
+<a href="https://github.com/piyush2006-nda?tab=achievements">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=piyush2006-nda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-width="95%"
-alt="GitHub Trophies"
+src="https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub Achievements"
 />
 
-</p>
+</a>
+
+</div>
 
 ---
 
-# 📊 GitHub Profile Summary
+# 📊 GitHub Profile Details
 
-<p align="center">
+<div align="center">
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush2006-nda&theme=tokyonight"
 width="95%"
-alt="GitHub Profile Summary"
+alt="GitHub Profile Details"
 />
 
-</p>
+</div>
 
 ---
 
-# 📚 Languages Used
+# 💻 Most Used Languages
 
-<p align="center">
+<div align="center">
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyush2006-nda&theme=tokyonight"
-height="180"
+width="48%"
 alt="Repositories Per Language"
 />
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyush2006-nda&theme=tokyonight"
-height="180"
+width="48%"
 alt="Most Commit Language"
 />
 
-</p>
+</div>
 
 ---
 
-# 📌 GitHub Repository Highlights
+# 📌 Project Showcase
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/piyush2006-nda">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=piyush2006-nda&repo=AgroFarm&theme=tokyonight&hide_border=true"
-alt="AgriFlow Repository"
-/>
+<a href="https://agro-farm-tan.vercel.app/">
+<img src="https://img.shields.io/badge/🌾%20AgriFlow-Live%20Demo-00C853?style=for-the-badge"/>
 </a>
 
-</p>
+<a href="https://formguard-insight-t7xy.vercel.app/">
+<img src="https://img.shields.io/badge/🛡️%20FormGuard-Live%20Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://v0-medi-buddy-v2-project.vercel.app/">
+<img src="https://img.shields.io/badge/💊%20MediBuddy-Live%20Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://sih-project-psi-seven.vercel.app/">
+<img src="https://img.shields.io/badge/🌊%20Blue%20Insights-Live%20Demo-00C853?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <picture>
 
@@ -388,13 +404,13 @@ width="95%"
 
 </picture>
 
-</p>
+</div>
 
 ---
 
 # 💻 Coding Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/piyush_bipin_varule2006/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -408,7 +424,31 @@ width="95%"
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+`Machine Learning`
+
+`Generative AI`
+
+`Advanced DSA`
+
+`React & Modern Frontend`
+
+`Node.js & Backend Development`
+
+`Cloud Technologies`
+
+`System Design`
+
+`AI-powered Automation`
+
+</div>
 
 ---
 
@@ -426,11 +466,15 @@ width="95%"
 
 # 🤝 Let's Build Something Together
 
-I'm interested in collaborating on:
+<div align="center">
 
-**AI/ML • Generative AI • Full-Stack Development • Automation • Open Source • Hackathons**
+**AI/ML** • **Generative AI** • **Full-Stack Development** • **Automation** • **Open Source** • **Hackathons**
+
+<br>
 
 If you're building something interesting, feel free to connect.
+
+</div>
 
 ---
 
