@@ -271,34 +271,6 @@ alt="Repositories Per Language"
 
 </div>
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-### 🚧 Contribution activity graph
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Contribution%20Graph-Temporarily%20Unavailable-555555?style=for-the-badge"
-    alt="Contribution Graph"
-  />
-</p>
-
-<p>
-  <a href="https://github.com/piyush2006-nda">
-    <img
-      src="https://img.shields.io/badge/View%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub Contributions"
-    />
-  </a>
-</p>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -310,25 +282,6 @@ alt="Piyush GitHub Contribution Streak"
 />
 
 </div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/piyush2006-nda?tab=achievements">
-
-<img
-src="https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github&logoColor=white"
-alt="GitHub Achievements"
-/>
-
-</a>
-
-</div>
-
----
 
 # 📊 GitHub Profile Details
 
