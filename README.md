@@ -325,38 +325,33 @@ alt="Blue Insights"
 <div align="center">
 
 <img
-src="./profile-summary-card-output/default/1-repos-per-language.svg"
-width="48%"
-alt="Repositories Per Language"
-/>
-
-<img
-src="./profile-summary-card-output/default/2-most-commit-language.svg"
-width="48%"
-alt="Most Commit Language"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="./profile-summary-card-output/default/3-stats.svg"
+src="./profile/stats.svg"
 width="48%"
 alt="GitHub Statistics"
 />
 
 <img
-src="./profile-summary-card-output/default/4-productive-time.svg"
+src="./profile/top-langs.svg"
 width="48%"
-alt="Productive Time"
+alt="Most Used Languages"
 />
 
 </div>
 
 ---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+src="./profile/streak.svg"
+width="90%"
+alt="GitHub Contribution Streak"
+/>
+
+</div>
+--
 
 # 🔥 Contribution Streak
 
